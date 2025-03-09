@@ -1,4 +1,4 @@
-# RLevent
+# Relevent
 
 > Do cool stuff with your cool buddies and don't miss what's happening next door
 
